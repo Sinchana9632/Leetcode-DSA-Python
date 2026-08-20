@@ -64,8 +64,7 @@
             
         2. _LeetCode 58:_ Length of Last Word
             
-        3. _GFG:_ Check if Strings are Rotations of Each Other
-            
+        3. _GFG:_ Valid Anagram
 - **Days 10–11: Prefix Matching & Substring Search**
     
     - **Python Concepts:** `.startswith()`, `.split()`, `.find()`, string slicing overhead.
